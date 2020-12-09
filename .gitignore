@@ -5,6 +5,7 @@ target/classes/zelDocker/SelDocker1.class
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 *.png
 *.css
+*.html
 test-output/jquery-1.7.1.min.js
 test-output/old/Default suite/Default test.properties
 test-output/testng-reports.js
